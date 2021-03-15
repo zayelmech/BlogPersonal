@@ -120,3 +120,15 @@ nav .profile-link a {
     font-size: 1.8rem;
     font-weight: bold;
 }
+
+.blogs-main {
+    width: 100%;
+    height: auto;
+    border-color: #47cfac;
+    display: grid;
+}
+
+.blogs-news-container {
+    background-color: #e6e9e9;
+    padding: 0 50px 40px;
+}
