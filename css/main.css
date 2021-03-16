@@ -164,3 +164,15 @@ nav .profile-link a {
     padding-bottom: 20px;
     text-align: center;
 }
+
+.blogs-button {
+    border: 1px solid #47cfac;
+    padding: 10px 15px;
+    font-size: 1.2rem;
+}
+
+.blogs-button:hover {
+    border: 1px solid white;
+    color: white;
+    background-color: #48CFAD;
+}
