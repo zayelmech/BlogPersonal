@@ -144,7 +144,7 @@ nav .profile-link a {
 }
 
 .blogs-news-img-container img {
-    /*algo*/
+    width: 85%;
 }
 
 .blogs-news-info-container {
@@ -153,4 +153,14 @@ nav .profile-link a {
 
 .blogs-news-info-container p {
     margin-bottom: 35px;
+}
+
+.blogs-post-container {
+    padding: 0 50px 40px;
+}
+
+.blogs-posts-container h3 {
+    border-bottom: 1px solid #cdd2da;
+    padding-bottom: 20px;
+    text-align: center;
 }
