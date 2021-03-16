@@ -18,6 +18,10 @@ body {
     right: 0;
 }
 
+.body-blogs {
+    position: relative;
+}
+
 a {
     text-decoration: none;
     display: inline;
@@ -175,4 +179,32 @@ nav .profile-link a {
     border: 1px solid white;
     color: white;
     background-color: #48CFAD;
+}
+
+.blogs-posts-container .post-container {
+    display: inline-block;
+    padding-left: 10px;
+    max-width: 30%;
+    margin-bottom: 50px;
+}
+
+.blogs-posts-container .post-container {
+    margin-bottom: 35px;
+}
+
+.blogs-posts-container .post-container img {
+    width: 100%;
+}
+
+footer {
+    width: 100%;
+    height: 80px;
+    background-color: #22272d;
+    border-top: 35px solid #48cfac;
+    text-align: center;
+}
+
+footer p {
+    color: white;
+    margin-top: 30px;
 }
